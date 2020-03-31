@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8309908a-5d9b-40be-830b-2258bce99bfc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZtEWCSHiQ8yMGGSbQp67Bh95x9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../udemy/kafka_connect/courseRepo/kafka-connect-github-source-1.1/pom.xml" />
+  </component>
+  <component name="RunManager" selected="JUnit.GitHubSourceTaskTest">
+    <configuration name="GitHubSourceConnectorConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-connect-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.achliopa.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.achliopa.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.achliopa.kafka.GitHubSourceConnectorConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubSourceTaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-connect-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.achliopa.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.achliopa.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.achliopa.kafka.GitHubSourceTaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubSourceTaskTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-connect-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.achliopa.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.achliopa.kafka" />
+      <option name="MAIN_CLASS_NAME" value="com.github.achliopa.kafka.GitHubSourceTaskTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.canParseJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-connect-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.achliopa.kafka.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.achliopa.kafka.model" />
+      <option name="MAIN_CLASS_NAME" value="com.github.achliopa.kafka.model.UserTest" />
+      <option name="METHOD_NAME" value="canParseJson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GitHubSourceTaskTest" />
+        <item itemvalue="JUnit.GitHubSourceTaskTest.test" />
+        <item itemvalue="JUnit.UserTest.canParseJson" />
+        <item itemvalue="JUnit.GitHubSourceConnectorConfigTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8309908a-5d9b-40be-830b-2258bce99bfc" name="Default Changelist" comment="" />
+      <created>1585650019536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585650019536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="188" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585676697496">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="179" y="188" width="526" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.873@0.0.1600.873" timestamp="1585676697496" />
+    <state x="583" y="194" width="426" height="480" key="FileChooserDialogImpl" timestamp="1585684254153">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="583" y="194" width="426" height="480" key="FileChooserDialogImpl/0.0.1600.873@0.0.1600.873" timestamp="1585684254153" />
+    <state width="1554" height="273" key="GridCell.Tab.0.bottom" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.0.bottom/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.0.center" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.0.center/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.0.left" timestamp="1585681702004">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.0.left/0.0.1600.873@0.0.1600.873" timestamp="1585681702004" />
+    <state width="1554" height="273" key="GridCell.Tab.0.right" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.0.right/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.1.bottom" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.1.bottom/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.1.center" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.1.center/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.1.left" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.1.left/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+    <state width="1554" height="273" key="GridCell.Tab.1.right" timestamp="1585681702005">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1554" height="273" key="GridCell.Tab.1.right/0.0.1600.873@0.0.1600.873" timestamp="1585681702005" />
+  </component>
+</project>

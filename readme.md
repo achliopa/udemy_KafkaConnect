@@ -833,3 +833,19 @@ atom config/connect-distributed.properties
  * we first cp the file in our projects and mod it to keep the originam clean
  * from our project folder where we hav ethe properties file we run `connect-distributed.sh ./connect-distributed.properties`
  * we know it is running if we hit the REST API with success `curl localhost:8084`
+ * we check for running connectors with `curl localhost:8084/connectors`
+ * we download a production ready postgres connector from debezium `https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=io.debezium&a=debezium-connector-postgres&v=LATEST&c=plugin&e=tar.gz`
+ * we put it in the connector folder we specked in the connectors path
+ * if we restart connect-distributed.sh we see its loaded
+
+ ### Lecture 51. Setting up Kafka Connect in Production (2/2)
+
+ * to launch a second worker we cp the properties file as 'onnect-distributed-2nd-worker.properties' and edit it
+  * the only thing we change is the rest.port we set it to 8085
+* we launch it 
+* if we want to use landoop (lenseip) connect ui on our production connect cluster we go to [lenseio](https://github.com/lensesio/kafka-connect-ui)
+* we can either lauch with docker or build it locally and launch with node
+* we use docker `sudo docker run --net=host --rm -it -p 8000:8000 -e "CONNECT_URL=http://localhost:8084" landoop/kafka-connect-ui`
+* we see our connector and we can deploy on the cluster
+* clean up all dangling docker images `sudo docker system prune -a`
+* THE END
